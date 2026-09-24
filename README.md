@@ -1,6 +1,6 @@
 # Healthcare Education: Program Completions
 
-This project uses NCES IPEDS to explore qualifications awarded in nursing and related healthcare programs during July 2022–June 2023. The notebook contains ingestion, two cleaning functions, grouped analysis, and three visualizations. The separate academic report and learner reflections remain to be completed.
+This project uses NCES IPEDS to explore qualifications awarded in nursing and related healthcare programs during July 2022–June 2023. The notebook contains ingestion, two cleaning functions, grouped analysis, and three visualizations. A draft academic report is included as module_summary.pdf; learner reflections and publication remain to be completed.
 
 ## Data
 
