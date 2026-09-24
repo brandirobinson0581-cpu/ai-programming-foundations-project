@@ -1,6 +1,8 @@
 # Healthcare Education: Program Completions
 
-This project uses NCES IPEDS to explore qualifications awarded in nursing and related healthcare programs during July 2022–June 2023. The notebook contains ingestion, two cleaning functions, grouped analysis, and three visualizations. The academic report, module_summary.pdf, includes my research-based motivation and reflection. GitHub publication remains to be completed.
+This project uses NCES IPEDS to explore qualifications awarded in nursing and related healthcare programs during July 2022–June 2023. The notebook contains ingestion, two cleaning functions, grouped analysis, and three visualizations. The academic report, module_summary.pdf, includes my research-based motivation and reflection.
+
+[GitHub repository](https://github.com/brandirobinson0581-cpu/ai-programming-foundations-project)
 
 ## Data
 
